@@ -2,7 +2,6 @@ import random
 // scm project
 // tic toe
 // project
-// type
 
 class TicTacToe:
 
